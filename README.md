@@ -1,4 +1,9 @@
-# React  Project for the React Course
+## An application for planning your tasks
+
+<img width="1680" alt="Знімок екрана 2023-07-14 о 10 57 29" src="https://github.com/vlad-henk/ToDo-App/assets/108754931/4d545b13-a5a3-468f-afc2-7a38cd87632b">
+<img width="1680" alt="Знімок екрана 2023-07-14 о 10 58 01" src="https://github.com/vlad-henk/ToDo-App/assets/108754931/3fa67217-7a4d-4a04-aa70-82e3b7a88abe">
+<img width="1680" alt="Знімок екрана 2023-07-14 о 10 58 27" src="https://github.com/vlad-henk/ToDo-App/assets/108754931/47bb8200-6e6a-46bf-9e85-f8ece953e01f">
+
 
 ## Available Scripts
 
